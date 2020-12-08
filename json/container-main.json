@@ -1,0 +1,59 @@
+[
+
+    {
+        "animeName" : "One Piece",
+        "animeGenre" : "Horror, Adventure, Fun",
+        "animeEpisodes" : "952",
+        "animeImageLocation" : "one-piece.jpg"
+    },
+
+    {
+        "animeName" : "Black Clover",
+        "animeGenre" : "Horror, Adventure, Fun",
+        "animeEpisodes" : "163",
+        "animeImageLocation" : "black-clover.jpg"
+    },
+
+    {
+        "animeName" : "Demon Slayer",
+        "animeGenre" : "Horror, Adventure, Fun",
+        "animeEpisodes" : "24",
+        "animeImageLocation" : "kny.jpg"
+    },
+
+    {
+        "animeName" : "Attack of Piglin",
+        "animeGenre" : "Horror, Adventure, Fun",
+        "animeEpisodes" : "24",
+        "animeImageLocation" : "kny.jpg"
+
+    },
+
+    {
+        "animeName" : "Hunter X Hunter",
+        "animeGenre" : "Horror, Adventure, Fun",
+        "animeEpisodes" : "24",
+        "animeImageLocation" : "kny.jpg"
+
+    },
+
+
+    {
+        "animeName" : "Hunter X Hunter",
+        "animeGenre" : "Horror, Adventure, Fun",
+        "animeEpisodes" : "24",
+        "animeImageLocation" : "kny.jpg"
+
+    },
+
+
+    {
+        "animeName" : "Hunter X Hunter",
+        "animeGenre" : "Horror, Adventure, Fun",
+        "animeEpisodes" : "24",
+        "animeImageLocation" : "kny.jpg"
+
+    }   
+
+
+]

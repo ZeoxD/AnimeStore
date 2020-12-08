@@ -1,0 +1,59 @@
+
+#heading-right {
+    font-size: 2vw;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 600;
+    color: #444;
+    text-align :center;
+    padding: 2vh 0 1.5vh 0;
+}
+
+#heading-right:hover {
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow : 0rem 0rem 0.5rem 0rem rgba(0, 0, 0, 0.1);
+    border-radius: 8px 8px 0 0; 
+}
+
+#iframe-timer {
+    opacity: 0.4;
+}
+
+#heading-right-anime-div {
+    margin-top: 20px;
+    margin-bottom: 22px;
+    width: 20vw;
+}
+
+#heading-right-anime {
+    margin-left: 3vw;
+    width: 14vw;
+    height: auto;
+    border-radius: 5px;
+    box-shadow : 0rem 0rem 0.5rem 0rem rgba(0, 0, 0, 0.3);
+}
+
+#heading-right-anime:hover {
+    box-shadow : 0rem 0rem 0.5rem 0rem rgba(0, 0, 0, 0.5);
+}
+
+#heading-right-text-div {
+    position:relative;
+    height: 48px;
+    background: rgba(255, 255, 255, 0.1);
+    width: 20vw;
+    margin-bottom: 30px;
+}
+
+#heading-right-text {
+    font-size: 1.2rem;
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;
+    color: #444;
+    text-align :center;
+    padding: 2vh 0 1.5vh 0;
+}
+
+
+@media (max-width: 480px) {
+
+}

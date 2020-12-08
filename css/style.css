@@ -1,0 +1,89 @@
+body {
+
+    background-image: url("../images/wstore.png");
+    background-color: #97cbe6 !important;
+    background-repeat: no-repeat;
+    background-size: 300px !important;
+    background-position: right bottom;
+    background-attachment: fixed;
+
+}
+
+div { 
+
+    display: block;
+}
+
+.container {
+
+    float: left;
+    width: 60vw !important;
+    margin-left: 8vw !important;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .1);   
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, .15);
+    backdrop-filter: blur(5px);
+}
+
+.container-main{
+    height: auto;
+}
+
+.container-one{
+    height: auto;
+}
+
+.container-right-top {
+    width: 20vw !important;
+    margin-left: 72vw !important;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .1);   
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, .15);
+    backdrop-filter: blur(5px);
+}
+
+.container-right-bottom {
+    width: 20vw !important;
+    margin-left: 72vw !important;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .1);   
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, .15);
+    backdrop-filter: blur(5px);
+}
+
+::-webkit-scrollbar
+{
+   width: 6px;
+   background-color: #97cbe6;
+}
+
+::-webkit-scrollbar-thumb
+{
+   border-radius: 2px;  
+   background: rgba(0, 0, 0, .4);
+}
+
+@media (max-width: 992px) {
+    .container {
+
+        width: 60vw;
+        margin-left: 5vw;
+
+    }
+    
+    .container-right-top {
+        width: 25vw;
+
+    }
+    
+    .container-right-bottom {
+        width: 25vw;
+    
+    }
+}    

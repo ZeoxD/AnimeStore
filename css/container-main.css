@@ -1,0 +1,50 @@
+/*Anime Div Container*/
+.anime-list{
+    display: block;
+    list-style: none;
+    margin-top: 12px;
+    color: #333;
+    height: 140px;
+    margin-bottom: 12px;
+}
+
+.anime-list:hover {
+    background: rgba(255, 255, 255, 0.4);
+    box-shadow : 0rem 0rem 0.5rem 0rem rgba(0, 0, 0, 0.05);
+    border-radius: 30px; 
+}
+
+
+/* Anime Left Icon */
+#anime-icon-list{
+    height: 80px;
+    margin: 0 0 55px 30px;
+    border-radius: 25px;
+    border: 4px solid #c0e0f0;
+    box-shadow : 0rem 0rem 0.5rem 0rem rgba(0, 0, 0, 0.3);
+}
+
+/* Anime Right Text */
+#anime-text{
+    display: inline-block; 
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+#anime-utext-list{
+    font-size: 1.3rem;
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;  
+}
+
+#anime-mtext-list{
+    font-size: 0.9rem;
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;  
+}
+
+#anime-ltext-list{
+    font-size: 0.9rem;
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;  
+}
