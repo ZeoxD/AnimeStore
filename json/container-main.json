@@ -19,41 +19,7 @@
         "animeGenre" : "Horror, Adventure, Fun",
         "animeEpisodes" : "24",
         "animeImageLocation" : "kny.jpg"
-    },
-
-    {
-        "animeName" : "Attack of Piglin",
-        "animeGenre" : "Horror, Adventure, Fun",
-        "animeEpisodes" : "24",
-        "animeImageLocation" : "kny.jpg"
-
-    },
-
-    {
-        "animeName" : "Hunter X Hunter",
-        "animeGenre" : "Horror, Adventure, Fun",
-        "animeEpisodes" : "24",
-        "animeImageLocation" : "kny.jpg"
-
-    },
-
-
-    {
-        "animeName" : "Hunter X Hunter",
-        "animeGenre" : "Horror, Adventure, Fun",
-        "animeEpisodes" : "24",
-        "animeImageLocation" : "kny.jpg"
-
-    },
-
-
-    {
-        "animeName" : "Hunter X Hunter",
-        "animeGenre" : "Horror, Adventure, Fun",
-        "animeEpisodes" : "24",
-        "animeImageLocation" : "kny.jpg"
-
-    }   
+    }  
 
 
 ]
